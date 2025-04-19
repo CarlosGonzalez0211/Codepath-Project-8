@@ -1,10 +1,10 @@
-# Web Development Project 7 - *Bet*
+# Web Development Project 7 
 
-Submitted by: **[Your Name]**
+Submitted by: Carlos Gonzalez
 
 This web app: **Allows users to create, view, update, and delete custom crewmates with name, power, and color attributes. It uses Supabase for database storage and React for front-end UI.**
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
